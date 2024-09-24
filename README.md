@@ -1,7 +1,4 @@
- # Sokhnaaminah.
-My personal repository.
-
-# Bonjour, je suis Sokhna Aminah ! 👋
+ # Bonjour, je suis Sokhna Aminah ! 👋
 
 👩‍💻 **Étudiante en Génie Logiciel | Développeuse Web & Mobile**
 
